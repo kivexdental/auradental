@@ -1,5 +1,0 @@
-# Robots.txt for Aura Dental Atelier
-User-agent: *
-Allow: /
-
-Sitemap: https://auradentalatelier.com/sitemap.xml
